@@ -89,9 +89,12 @@ htmlcov/
 # =====================
 # Files and Folders
 # =====================
-*.mp3
-*.txt
 .mp3_files/
+.pdf_files/
+.txt_files/
+*.mp3
 *.pdf
+
+
 
 
