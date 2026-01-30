@@ -85,3 +85,12 @@ instance/
 htmlcov/
 .pytest_cache/
 .tox/
+
+# =====================
+# Files and Folders
+# =====================
+*.mp3
+*.txt
+.mp3_files/
+
+
